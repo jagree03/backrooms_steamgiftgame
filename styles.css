@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
+
+section {
+    align-items: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1280px;
+    height: 720px;
+}
+
+button {
+    opacity: 0%;
+}
+
+button#btnFirstDoor {
+    width: 100px;
+    height: 400px;
+    position: absolute;
+    left: 415px;
+    top: 100px;
+}
+
+button#btnSecondDoor {
+    width: 200px;
+    height: 130px;
+    position: absolute;
+    right: 520px;
+    top: 240px;
+}
+
+button#btnThirdDoor {
+    width: 350px;
+    height: 600px;
+    position: absolute;
+    right: 630px;
+    top: 10px;
+}
+
+button#btnFourthDoor {
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    right: 590px;
+    top: 100px;
+}
+
+button#btnFifthDoor {
+    width: 250px;
+    height: 650px;
+    position: absolute;
+    right: 110px;
+    top: 10px;
+}
+
+button#btnSixthDoor {
+    width: 250px;
+    height: 700px;
+    position: absolute;
+    left: 30px;
+    top: 10px;
+}
+
+button#btnSeventhDoor {
+    width: 250px;
+    height: 700px;
+    position: absolute;
+    left: 20px;
+    top: 50px;
+}
+
+button#btnFinalDoor {
+    width: 250px;
+    height: 450px;
+    position: absolute;
+    left: 530px;
+    top: 120px;
+}
+
+button#btnFinalDoor2 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 600px;
+    top: 200px;
+}
+
+button#btnTerminal {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 430px;
+    top: 335px;
+}
