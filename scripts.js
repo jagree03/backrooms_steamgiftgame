@@ -1,3 +1,4 @@
+// Author: Jagjeet Reehal
 const mainImage = document.getElementById('image');
 
 const btnFirstDoor = document.getElementById('btnFirstDoor');
